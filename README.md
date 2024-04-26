@@ -47,6 +47,6 @@ If you're looking for someone to join your data-driven journey or collaborate on
  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white" /> View my Tableau projects [here](https://public.tableau.com/app/profile/tamima.tarofdar/vizzes)
 </a>
 
-<img align="center" src="https://www.logo.wine/a/logo/Microsoft_Outlook/Microsoft_Outlook-Logo.wine.svg" height="40"/> Contact me via [email](tamimat@hotmail.co.uk) 
+<img align="center" src="https://www.logo.wine/a/logo/Microsoft_Outlook/Microsoft_Outlook-Logo.wine.svg" height="40"/> Contact me via [Email](mailto:tamimat@hotmail.co.uk)
 </a>
 
